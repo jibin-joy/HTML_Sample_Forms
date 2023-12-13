@@ -1,0 +1,14 @@
+input[type=radio]{
+	accent-color:magenta;}
+input[type=checkbox]{
+accent-color:red;}
+
+h2{
+position:relative;}
+
+div{display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+background-color:black;
+color:white;}
